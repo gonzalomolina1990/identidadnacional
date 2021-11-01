@@ -871,7 +871,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   background-repeat: no-repeat;
   -webkit-transition: .8s all ease-in-out;
   transition: .8s all ease-in-out;
-  background-color: #f4bd00;
+  background-color: #1a3c6c;
 }
 
 .probootstrap-half .text {
@@ -982,7 +982,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .probootstrap-footer-section {
   padding: 5em 0;
-  background: #f4bd00;
+  background: #1a3c6c;
 }
 
 .probootstrap-footer-section ul {
