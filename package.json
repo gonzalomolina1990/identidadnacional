@@ -1,16 +1,34 @@
 {
-"devDependencies": {
-  "gulp": "latest",
-  "gulp-sass": "latest",
-  "gulp-uglify": "latest",
-  "gulp-rename": "latest",
-  "gulp-notify": "latest",
-  "gulp-minify-css": "latest",
-  "gulp-concat": "latest",
-  "gulp-plumber": "latest",
-  "browser-sync": "latest",
-  "gulp-sourcemaps": "latest",
-  "gulp-autoprefixer": "latest",
-  "gulp-clean-css": "latest"
-  }
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-rename": "latest",
+    "gulp-notify": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-concat": "latest",
+    "gulp-plumber": "latest",
+    "browser-sync": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest"
+  },
+  "name": "id1405",
+  "description": "",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalomolina1990/identidadnacional.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalomolina1990/identidadnacional/issues"
+  },
+  "homepage": "https://github.com/gonzalomolina1990/identidadnacional#readme"
 }
